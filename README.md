@@ -1,5 +1,5 @@
 # FluxVton-Wild-Datasets
 Wild-Datasets Share
-![示例图片](output_combined_01.gif)
+![示例图片](images/WildDatasetsPrev.gif)
 
 
