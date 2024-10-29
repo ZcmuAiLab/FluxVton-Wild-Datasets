@@ -10,8 +10,8 @@ Wild-Datasets Share
 以下是数据集中包含的部分衣服图片展示：
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="images/combine_1.jpg" alt="衣服1" width="200" style="margin: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
-    <img src="images/combine_2.jpg" alt="衣服2" width="200" style="margin: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
+    <img src="images/combined_1.jpg" alt="衣服1" width="200" style="margin: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
+    <img src="images/combined_2.jpg" alt="衣服2" width="200" style="margin: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
     <img src="images/mod_006.jpg" alt="衣服3" width="200" style="margin: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
 </div>
 
