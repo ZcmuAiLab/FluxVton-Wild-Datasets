@@ -4,9 +4,9 @@ Wild-Datasets Share
 The dataset include 3000 pairs of wild-samples.
 
 
-## 1. 模特图片
+## 1. Model images
 
-以下是数据集中包含的部分模特图片展示
+Here are some model images included in the dataset
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -26,9 +26,9 @@ The dataset include 3000 pairs of wild-samples.
 
 </div>
 
-## 2. 衣服图片
+## 2. Clothing images
 
-以下是数据集中包含的部分衣服图片展示：
+Here are some clothing images included in the dataset:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="image/combined_1.jpg" alt="衣服1" width="2000" style="margin: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
